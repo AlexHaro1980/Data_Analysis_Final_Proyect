@@ -1,5 +1,3 @@
-a) Introducción
-
 Optimización de Nómina.
 
 El Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco (CECYTEJ) es un subsistema de educación pública a nivel bachillerato que opera con fondos federales y estatales y atiende a más de 20,000 alumnos en sus 44 planteles, distribuidos en el estado de Jalisco.
